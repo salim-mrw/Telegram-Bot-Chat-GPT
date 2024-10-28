@@ -23,7 +23,7 @@ This bot provides Chat GPT services to enhance the user experience within Telegr
 
 install [git tool](https://git-scm.com/downloads)
 
-create directory name attacker and open it
+create directory name TelegramBotChatGPT and open it
 
 ```bash
   mkdir TelegramBotChatGPT
@@ -31,7 +31,7 @@ create directory name attacker and open it
   cd TelegramBotChatGPT
 ```
 
-clone attacker repository with git tool
+clone Telegram-BOT-Chat-GPT repository with git tool
 
 ```bash
   git clone https://github.com/salim-mrw/Telegram-BOT-Chat-GPT
