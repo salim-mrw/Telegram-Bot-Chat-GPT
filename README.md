@@ -23,7 +23,11 @@ This bot provides Chat GPT services to enhance the user experience within Telegr
 ## Libraries Stack
 
 - numpy
-- Telebot
+- decouple
+- telebot
+- openai
+- json
+- datetime
 
 
 ## Online Host
