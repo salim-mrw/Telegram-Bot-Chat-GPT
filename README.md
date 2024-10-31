@@ -26,14 +26,26 @@ This bot provides Chat GPT services to enhance the user experience within Telegr
 - Telebot
 
 
-# Online Host
+## Online Host
 
 - Pythonanywhere
 
 
-# Data Base
+## Data Base
 
 - Json file
+
+
+## File Strcture
+
+
+## File Description
+
+
+## Variable/Function Documentation
+
+
+## Enviroment Variables
 
 
 ## Installation
