@@ -51,6 +51,12 @@ This bot provides Chat GPT services to enhance the user experience within Telegr
 
 ## Enviroment Variables
 
+```ENV
+
+BOT_TOKEN
+GPT_TOKEN
+
+```
 
 ## Installation
 
