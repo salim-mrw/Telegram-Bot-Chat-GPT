@@ -1,6 +1,7 @@
 #! /usr/local/bin/python
 # -*- coding: UTF-8 -*-
 
+import numpy
 from decouple import config
 import telebot
 from telebot import types, util
