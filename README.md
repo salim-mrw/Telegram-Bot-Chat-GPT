@@ -1,17 +1,18 @@
 # Telegram-Bot-Chat-GPT
 
 
-## Authers
-
-[Salim Marwan](https://www.github.com/salim-mrw)
-
-
 ![Logo](logo.png)
 
 
 ## Description
 
 This bot provides Chat GPT services to enhance the user experience within Telegram. It is one of the famous artificial intelligence technologies as it provides you with assistance in performing multiple functions such as proofreading texts, translating, writing content, and many functions in various fields
+
+
+## Authers
+
+[Salim Marwan](https://www.github.com/salim-mrw)
+
 
 
 ## Languages Stack
