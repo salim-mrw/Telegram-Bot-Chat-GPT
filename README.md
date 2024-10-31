@@ -22,12 +22,12 @@ This bot provides Chat GPT services to enhance the user experience within Telegr
 
 ## Libraries Stack
 
-- numpy
-- decouple
-- telebot
-- openai
-- json
-- datetime
+- [numpy](https://pypi.org/project/numpy/)
+- [decouple](https://pypi.org/project/python-decouple/)
+- [telebot](https://pypi.org/project/pyTelegramBotAPI/)
+- [openai](https://pypi.org/project/openai/)
+- [json](https://pypi.org/project/pypi-json/)
+- [datetime](https://pypi.org/project/DateTime/)
 
 
 ## Online Host
