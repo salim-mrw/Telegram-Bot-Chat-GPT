@@ -20,6 +20,22 @@ This bot provides Chat GPT services to enhance the user experience within Telegr
 - Python
 
 
+## Libraries Stack
+
+- numpy
+- Telebot
+
+
+# Online Host
+
+- Pythonanywhere
+
+
+# Data Base
+
+- Json file
+
+
 ## Installation
 
 install [git tool](https://git-scm.com/downloads)
