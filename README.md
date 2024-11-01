@@ -14,7 +14,6 @@ This bot provides Chat GPT services to enhance the user experience within Telegr
 [Salim Marwan](https://www.github.com/salim-mrw)
 
 
-
 ## Languages Stack
 
 - Python
@@ -49,6 +48,7 @@ This bot provides Chat GPT services to enhance the user experience within Telegr
     ├── logo.png
     ├── README.md
     ├── LICENSE
+
 
 ## File Description
 
