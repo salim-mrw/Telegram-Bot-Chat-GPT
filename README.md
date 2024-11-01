@@ -42,12 +42,13 @@ This bot provides Chat GPT services to enhance the user experience within Telegr
 
 ## File Strcture
 
-  ├── main.py
-  ├── user.json
-  ├── message.json
-  ├── 
-  ├── logo.png
-
+    ├── main.py
+    ├── info.json
+    ├── message.json
+    ├── .env
+    ├── logo.png
+    ├── README.md
+    ├── LICENSE
 
 ## File Description
 
